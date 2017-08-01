@@ -8,4 +8,10 @@ This a CS-Homework-latex-template I use to submit homework.
 	cd CS-Homework-latex-template
 	pdflatex template_1.tex
 ```
-You can alos modify the **tex** file to meet your own demand.
+### Editor
+
+Recommended editor is <a href="http://www.xm1math.net/texmaker/">**Texmaker**</a>
+
+PS: You can alos modify the **tex** file to meet your own demand.
+
+
