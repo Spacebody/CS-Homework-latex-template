@@ -10,6 +10,7 @@
 \floatname{algorithm}{Algorithm}  
 \renewcommand{\algorithmicrequire}{\textbf{Input:}}  
 \renewcommand{\algorithmicensure}{\textbf{Output:}} 
+\algdef{SE}[DOWHILE]{Do}{doWhile}{\algorithmicdo}[1]{\algorithmicwhile\ #1}%use do...while loop
 %-------------------------
 \usepackage{listings}% insert programming code within the document. Many languages are supported and the output can be customized
 %------------------------------------------------
