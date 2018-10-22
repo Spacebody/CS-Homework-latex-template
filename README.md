@@ -1,7 +1,7 @@
 # CS-Homework-latex-template
 This a CS-Homework-latex-template I use to submit homework.
 
-### How to Use
+### Example of Usage
 
 ```bash
 	git clone https://github.com/Spacebody/CS-Homework-latex-template.git
